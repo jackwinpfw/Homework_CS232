@@ -1,0 +1,11 @@
+Project 2 Contributions
+Excell Willie-Pepple
+Time: 1 hour
+Contributions:
+main and indexPage functions
+
+Jack Win
+Time: 3 hours
+Contributions:
+addWordOccurence, printTrieContents, freeTrieMemory functions
+trieNode struct
